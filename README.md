@@ -6,6 +6,8 @@ Um projeto mobile que usa a API APOD da NASA
 
  * Henrique Kenji
 
+# Descrição: este projeto tem com objetivo mostrar a imagem do dia contendo um título, data, descrição e também com a possibilidade de pesquisar uma imagem da api da NASA 
+
 # Sumario:
 
  - [1. Analise da API](https://github.com/HenriqueKenjiTargino/APINASA/wiki/Analise-da-API)
