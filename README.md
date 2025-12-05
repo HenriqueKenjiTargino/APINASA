@@ -1,25 +1,16 @@
-# API NASA
+# mobile_api
 
-Um projeto mobile que usa a API APOD da NASA
+A new Flutter project.
 
-# Integrantes:
+## Getting Started
 
- * Henrique Kenji
+This project is a starting point for a Flutter application.
 
-# Descrição: 
+A few resources to get you started if this is your first Flutter project:
 
-este projeto tem com objetivo mostrar a imagem do dia contendo um título, data, descrição e também com a possibilidade de pesquisar uma imagem da api da NASA 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-# Sumario:
-
- - [1. Home](https://github.com/HenriqueKenjiTargino/APINASA/wiki)
- - [2. Analise da API](https://github.com/HenriqueKenjiTargino/APINASA/wiki/Analise-da-API)
- - [3. Descrição da aplicação](https://github.com/HenriqueKenjiTargino/APINASA/wiki/Descrição-da-aplicação)
- - [4. Mapa de navegação](https://github.com/HenriqueKenjiTargino/APINASA/wiki/Mapa-de-navegação)
- - [5. Protótipo do aplicativo](https://github.com/HenriqueKenjiTargino/APINASA/wiki/Protótipo-do-aplicativo)
- - [6. Widgets](https://github.com/HenriqueKenjiTargino/APINASA/wiki/Widgets)
- - [7. Aplicativo mobile](https://github.com/HenriqueKenjiTargino/APINASA/wiki/Aplicativo-Mobile)
-   
-Referências: 
-
-* https://api.nasa.gov
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
